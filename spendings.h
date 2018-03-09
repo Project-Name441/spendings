@@ -18,6 +18,11 @@ protected:
 
 private:
 
+public:
+struct Transactions {
+
+};
+
   
   
   
