@@ -17,4 +17,10 @@ protected:
     Spendings();
 
 private:
+
   
+  
+  
+};
+
+#endif
